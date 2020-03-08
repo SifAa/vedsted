@@ -141,6 +141,7 @@ footer a:hover {
     background-image: url(materiale/slider.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
     color: #fff;
     min-height: 450px;
 }
